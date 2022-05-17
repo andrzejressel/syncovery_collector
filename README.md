@@ -10,7 +10,7 @@ Prometheus exporter for Syncovery backup software: https://www.syncovery.com/
 version: "3.9"
 services:
   syncovery-exporter:
-    image: ghcr.io/andrzejressel/syncovery-exporter:0.0.2
+    image: ghcr.io/andrzejressel/syncovery-exporter:VERSION
     command:
       - --url=SYNCOVERY_URL
 ```
