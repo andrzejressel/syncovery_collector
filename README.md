@@ -1,4 +1,5 @@
 # Syncovery prometheus exporter
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/andrzejressel/syncovery-exporter)
 
 Prometheus exporter for Syncovery backup software: https://www.syncovery.com/
 
